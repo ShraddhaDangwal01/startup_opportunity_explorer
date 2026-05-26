@@ -52,4 +52,4 @@ This tool helps entrepreneurs identify business ideas, analysts track trends, an
 Python, Pandas, Streamlit, Reddit APIs, Data Pipelines  
 
 ## 📬 Author
-Built as a data analysis and product exploration project.
+Shraddha
